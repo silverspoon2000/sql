@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Please refer to "Prompts 1-3.png" from image folder for the combined ERD. Type 1 would overwrite old address with new address and doesn't store any old addresses. Type 2 would retain the old addresses. In the ERD, type 2 will list all addresses of the customer and mark the changes by the date in which an update is made.
 ```
 
 ***
